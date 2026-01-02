@@ -1,0 +1,16 @@
+GEMINI API ANAHTARI KURULUMU
+============================
+
+1. https://aistudio.google.com/app/apikey adresine gidin
+2. Google hesabınızla giriş yapın
+3. "Create API Key" butonuna tıklayın
+4. Oluşturulan anahtarı kopyalayın
+5. Ana dizinde .env dosyası oluşturun ve şu satırı ekleyin:
+
+GEMINI_API_KEY=buraya_anahtarinizi_yapistirin
+
+Örnek:
+GEMINI_API_KEY=AIzaSyAbCdEfGhIjKlMnOpQrStUvWxYz1234567
+
+NOT: .env dosyası git'e commit edilmemelidir (zaten .gitignore'da olmalı)
+

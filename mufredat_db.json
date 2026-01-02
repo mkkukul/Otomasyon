@@ -1,0 +1,220 @@
+{
+  "LGS": {
+    "Türkçe": {
+      "Paragraf": {
+        "alt_konular": ["Paragrafın Anlamı", "Paragrafın Yapısı", "Paragraf Tamamlama"],
+        "history": [8, 8, 8, 8, 8, 8, 8],
+        "importance": "Kritik"
+      },
+      "Dil Bilgisi": {
+        "alt_konular": ["Fiilimsi", "Cümlenin Öğeleri", "Anlatım Bozukluğu"],
+        "history": [4, 4, 4, 4, 4, 4, 4],
+        "importance": "Kritik"
+      },
+      "Yazım Kuralları": {
+        "alt_konular": ["Noktalama İşaretleri", "Yazım Yanlışları"],
+        "history": [2, 2, 2, 2, 2, 2, 2],
+        "importance": "Normal"
+      }
+    },
+    "Matematik": {
+      "Üslü Sayılar": {
+        "alt_konular": ["Üslü İfadeler", "Köklü Sayılar", "Üslü Denklemler"],
+        "history": [3, 3, 3, 3, 3, 3, 3],
+        "importance": "Kritik"
+      },
+      "Cebirsel İfadeler": {
+        "alt_konular": ["Çarpanlara Ayırma", "Özdeşlikler"],
+        "history": [2, 2, 2, 2, 2, 2, 2],
+        "importance": "Normal"
+      },
+      "Geometri": {
+        "alt_konular": ["Üçgenler", "Dörtgenler", "Çember"],
+        "history": [4, 4, 4, 4, 4, 4, 4],
+        "importance": "Kritik"
+      }
+    },
+    "Fen Bilimleri": {
+      "Mevsimler ve İklim": {
+        "alt_konular": ["Mevsimlerin Oluşumu", "İklim Tipleri", "Hava Olayları"],
+        "history": [2, 2, 1, 2, 2, 1, 1],
+        "importance": "Normal"
+      },
+      "Basınç": {
+        "alt_konular": ["Katı Basıncı", "Sıvı Basıncı", "Gaz Basıncı"],
+        "history": [3, 3, 3, 3, 3, 3, 3],
+        "importance": "Kritik"
+      },
+      "Kuvvet ve Hareket": {
+        "alt_konular": ["Newton Yasaları", "Enerji", "İş ve Güç"],
+        "history": [4, 4, 4, 4, 4, 4, 4],
+        "importance": "Kritik"
+      }
+    },
+    "İnkılap Tarihi": {
+      "Milli Mücadele": {
+        "alt_konular": ["Kongreler", "Cepheler", "Antlaşmalar"],
+        "history": [3, 3, 3, 3, 3, 3, 3],
+        "importance": "Kritik"
+      },
+      "Atatürk Dönemi": {
+        "alt_konular": ["İnkılaplar", "Dış Politika"],
+        "history": [2, 2, 2, 2, 2, 2, 2],
+        "importance": "Normal"
+      }
+    },
+    "Din Kültürü": {
+      "İbadet": {
+        "alt_konular": ["Namaz", "Oruç", "Zekat"],
+        "history": [2, 2, 2, 2, 2, 2, 2],
+        "importance": "Normal"
+      },
+      "Ahlak": {
+        "alt_konular": ["İyi Davranışlar", "Toplumsal Kurallar"],
+        "history": [1, 1, 1, 1, 1, 1, 1],
+        "importance": "Normal"
+      }
+    },
+    "İngilizce": {
+      "Grammar": {
+        "alt_konular": ["Tenses", "Modal Verbs", "Conditionals"],
+        "history": [3, 3, 3, 3, 3, 3, 3],
+        "importance": "Kritik"
+      },
+      "Vocabulary": {
+        "alt_konular": ["Daily Life", "School", "Environment"],
+        "history": [2, 2, 2, 2, 2, 2, 2],
+        "importance": "Normal"
+      }
+    }
+  },
+  "YKS": {
+    "TYT": {
+      "Türkçe": {
+        "Paragraf": {
+          "alt_konular": ["Paragraf Anlama", "Paragraf Yorumlama"],
+          "history": [20, 20, 20, 20, 20, 20, 20],
+          "importance": "Kritik"
+        },
+        "Dil Bilgisi": {
+          "alt_konular": ["Ses Bilgisi", "Yazım Kuralları", "Noktalama"],
+          "history": [5, 5, 5, 5, 5, 5, 5],
+          "importance": "Normal"
+        }
+      },
+      "Matematik": {
+        "Temel Matematik": {
+          "alt_konular": ["Sayılar", "Cebir", "Geometri"],
+          "history": [30, 30, 30, 30, 30, 30, 30],
+          "importance": "Kritik"
+        },
+        "Problemler": {
+          "alt_konular": ["Sayı Problemleri", "Yaş Problemleri", "İşçi Problemleri"],
+          "history": [10, 10, 10, 10, 10, 10, 10],
+          "importance": "Kritik"
+        }
+      },
+      "Fen Bilimleri": {
+        "Fizik": {
+          "alt_konular": ["Mekanik", "Elektrik", "Manyetizma"],
+          "history": [7, 7, 7, 7, 7, 7, 7],
+          "importance": "Kritik"
+        },
+        "Kimya": {
+          "alt_konular": ["Kimyasal Tepkimeler", "Asit-Baz", "Organik Kimya"],
+          "history": [7, 7, 7, 7, 7, 7, 7],
+          "importance": "Kritik"
+        },
+        "Biyoloji": {
+          "alt_konular": ["Hücre", "Genetik", "Ekoloji"],
+          "history": [6, 6, 6, 6, 6, 6, 6],
+          "importance": "Kritik"
+        }
+      },
+      "Sosyal Bilimler": {
+        "Tarih": {
+          "alt_konular": ["Osmanlı Tarihi", "Türkiye Cumhuriyeti Tarihi"],
+          "history": [5, 5, 5, 5, 5, 5, 5],
+          "importance": "Normal"
+        },
+        "Coğrafya": {
+          "alt_konular": ["Fiziki Coğrafya", "Beşeri Coğrafya"],
+          "history": [5, 5, 5, 5, 5, 5, 5],
+          "importance": "Normal"
+        }
+      }
+    },
+    "AYT": {
+      "Matematik": {
+        "Limit ve Süreklilik": {
+          "alt_konular": ["Limit", "Süreklilik"],
+          "history": [2, 2, 2, 2, 2, 2, 2],
+          "importance": "Kritik"
+        },
+        "Türev": {
+          "alt_konular": ["Türev Kuralları", "Türev Uygulamaları"],
+          "history": [4, 4, 4, 4, 4, 4, 4],
+          "importance": "Kritik"
+        },
+        "İntegral": {
+          "alt_konular": ["Belirsiz İntegral", "Belirli İntegral"],
+          "history": [4, 4, 4, 4, 4, 4, 4],
+          "importance": "Kritik"
+        }
+      },
+      "Fizik": {
+        "Elektrik ve Manyetizma": {
+          "alt_konular": ["Elektrik Alan", "Manyetik Alan", "İndüksiyon"],
+          "history": [3, 3, 3, 3, 3, 3, 3],
+          "importance": "Kritik"
+        },
+        "Dalgalar": {
+          "alt_konular": ["Mekanik Dalgalar", "Elektromanyetik Dalgalar"],
+          "history": [2, 2, 2, 2, 2, 2, 2],
+          "importance": "Normal"
+        }
+      },
+      "Kimya": {
+        "Kimyasal Tepkimeler": {
+          "alt_konular": ["Tepkime Hızı", "Denge", "Asit-Baz Dengesi"],
+          "history": [4, 4, 4, 4, 4, 4, 4],
+          "importance": "Kritik"
+        }
+      },
+      "Biyoloji": {
+        "Genetik": {
+          "alt_konular": ["Kalıtım", "DNA", "Protein Sentezi"],
+          "history": [4, 4, 4, 4, 4, 4, 4],
+          "importance": "Kritik"
+        },
+        "Ekoloji": {
+          "alt_konular": ["Ekosistem", "Besin Zinciri", "Çevre Sorunları"],
+          "history": [3, 3, 3, 3, 3, 3, 3],
+          "importance": "Normal"
+        }
+      },
+      "Türk Dili ve Edebiyatı": {
+        "Edebiyat Tarihi": {
+          "alt_konular": ["Divan Edebiyatı", "Tanzimat Edebiyatı", "Cumhuriyet Edebiyatı"],
+          "history": [6, 6, 6, 6, 6, 6, 6],
+          "importance": "Kritik"
+        }
+      },
+      "Tarih": {
+        "Osmanlı Tarihi": {
+          "alt_konular": ["Kuruluş", "Yükselme", "Gerileme", "Dağılma"],
+          "history": [4, 4, 4, 4, 4, 4, 4],
+          "importance": "Kritik"
+        }
+      },
+      "Coğrafya": {
+        "Türkiye Coğrafyası": {
+          "alt_konular": ["Fiziki Coğrafya", "Beşeri Coğrafya", "Ekonomik Coğrafya"],
+          "history": [3, 3, 3, 3, 3, 3, 3],
+          "importance": "Normal"
+        }
+      }
+    }
+  }
+}
+
